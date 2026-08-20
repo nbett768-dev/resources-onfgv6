@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nbett768-dev.github.io/resources-onfgv6/sitemap.xml
